@@ -1,0 +1,3 @@
+I'm a development economist at the University of East Anglia, UK. I received my PhD from the University of Nottingham in 2010, working on **development aid** supervised by Oliver Morrissey. I then held a two-year ESRC postdoc at UEA, before joining as faculty. In aid, I have published on allocation, migration, taxation, and payment by results.
+
+I now mainly use **experimental and behavioural** economics to study decision making,  often with the help of [The Field Lab, Uganda](https://thefieldlabuganda.com/). The common thread is the external social influence on a person's decisions. This includes the domains of risk taking, social preferences, and lying. One social influence I have returned to several times is language.
